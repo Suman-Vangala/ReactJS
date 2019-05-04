@@ -3,4 +3,3 @@ Learning Github using Github Tutorial.
 
 1.Training Session 1
 2.Training Session 2
-3.Training Session 3
