@@ -6,3 +6,7 @@ Learning Github using Github Tutorial.
 
 New Features Adding
 1.New_Feature_1
+
+
+Done with commiting changes.
+Ready to merge.
